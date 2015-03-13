@@ -16,3 +16,7 @@ Mostly from the Stealth tutorials, this part of the game is mainly a practice wi
 
 Environment:
 An environment taken from the Stealth project since it fits nicely with the underground theme of the game, it is baked with dual lightmaps instead of dynamic because I'm using the free version of Unity, and Dynamic is only allowed in the pro version.
+
+Key Item:
+The item that would serve as the key that would open the lift that would end the level is a keycard.
+Supposed to be, the game would have six more characters, which the player will have to find, protect, and they would follow the player character around and missing one would prevent the player from finishing the game. The designs for these characters were already finished although not included.
